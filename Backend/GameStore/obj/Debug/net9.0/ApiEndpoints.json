@@ -1,0 +1,430 @@
+[
+  {
+    "ContainingType": "GameStore.Controllers.CategoryController",
+    "Method": "GetAll",
+    "RelativePath": "api/Category",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.CategoryController",
+    "Method": "CreateCategory",
+    "RelativePath": "api/Category",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryDto",
+        "Type": "GameStore.Dtos.Category.AddCategoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.CategoryController",
+    "Method": "GetById",
+    "RelativePath": "api/Category/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.CategoryController",
+    "Method": "UpdateCategory",
+    "RelativePath": "api/Category/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateCategoryDto",
+        "Type": "GameStore.Dtos.Category.UpdateCategoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.CategoryController",
+    "Method": "Delete",
+    "RelativePath": "api/Category/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.GameController",
+    "Method": "GetAllGames",
+    "RelativePath": "api/Game",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.GameController",
+    "Method": "CreateGame",
+    "RelativePath": "api/Game",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gameDto",
+        "Type": "GameStore.Dtos.Game.CreateGameDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.GameController",
+    "Method": "GetGameById",
+    "RelativePath": "api/Game/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.GameController",
+    "Method": "UpdateGame",
+    "RelativePath": "api/Game/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "gameDto",
+        "Type": "GameStore.Dtos.Game.UpdateGameDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.GameController",
+    "Method": "DeleteGame",
+    "RelativePath": "api/Game/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.GameController",
+    "Method": "GetGamesByCategory",
+    "RelativePath": "api/Game/category/{categoryId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.GameController",
+    "Method": "GetGamesByFilter",
+    "RelativePath": "api/Game/filter",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "minPrice",
+        "Type": "System.Nullable\u00601[[System.Decimal, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "maxPrice",
+        "Type": "System.Nullable\u00601[[System.Decimal, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "evaluation",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.GameKeyController",
+    "Method": "GetAvailableKeys",
+    "RelativePath": "api/GameKey/{gameId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gameId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.GameKeyController",
+    "Method": "GenerateKeys",
+    "RelativePath": "api/GameKey/{gameId}/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gameId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "count",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.GameKeyController",
+    "Method": "ActivateKey",
+    "RelativePath": "api/GameKey/activate/{key}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.OrderController",
+    "Method": "GetOrderById",
+    "RelativePath": "api/Order/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.OrderController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/Order/{orderId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.OrderController",
+    "Method": "GetUserOrders",
+    "RelativePath": "api/Order/user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.PaymentController",
+    "Method": "ProcessPayment",
+    "RelativePath": "api/Payment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "paymentDto",
+        "Type": "GameStore.Dtos.Payment.ProcessPaymentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.PaymentController",
+    "Method": "GetPaymentStatus",
+    "RelativePath": "api/Payment/{orderId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.UserController",
+    "Method": "GetById",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.UserController",
+    "Method": "Update",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateUserDto",
+        "Type": "GameStore.Dtos.User.UpdateUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.UserController",
+    "Method": "Delete",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/User/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginUserDto",
+        "Type": "GameStore.Dtos.User.LoginUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameStore.Controllers.UserController",
+    "Method": "Register",
+    "RelativePath": "api/User/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerUserDto",
+        "Type": "GameStore.Dtos.User.RegisterUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,1013 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\QandA\\Backend\\GameStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\dtos\\category\\addcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:dtos\\category\\addcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\dtos\\game\\creategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:dtos\\game\\creategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\dtos\\game\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:dtos\\game\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\dtos\\game\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:dtos\\game\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\dtos\\game\\updategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:dtos\\game\\updategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\dtos\\game\\viewgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:dtos\\game\\viewgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\controllers\\gamekeycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:controllers\\gamekeycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\dtos\\payment\\processpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:dtos\\payment\\processpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\services\\gamekeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:services\\gamekeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\interfaces\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:interfaces\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\interfaces\\iservices\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:interfaces\\iservices\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\interfaces\\iservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:interfaces\\iservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\interfaces\\iservices\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:interfaces\\iservices\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\interfaces\\iservices\\igamekeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:interfaces\\iservices\\igamekeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\interfaces\\iservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:interfaces\\iservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\interfaces\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:interfaces\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\interfaces\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:interfaces\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\interfaces\\irepository\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:interfaces\\irepository\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\interfaces\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:interfaces\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\interfaces\\irepository\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:interfaces\\irepository\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\interfaces\\irepository\\igamekeyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:interfaces\\irepository\\igamekeyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\models\\gamekey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:models\\gamekey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\dtos\\user\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:dtos\\user\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\dtos\\user\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:dtos\\user\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\dtos\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:dtos\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\dtos\\orderitemsdto\\addorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:dtos\\orderitemsdto\\addorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\dtos\\order\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:dtos\\order\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\dtos\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:dtos\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\dtos\\orderitemsdto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:dtos\\orderitemsdto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\migrations\\20250130134551_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:migrations\\20250130134551_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\migrations\\20250130134551_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:migrations\\20250130134551_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\mappers\\usermappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:mappers\\usermappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|d:\\coding\\qanda\\backend\\gamestore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C700414D-582C-4C9B-A6B8-372A875EAABB}|GameStore.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ViewGameDto.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Game\\ViewGameDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Game\\ViewGameDto.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Game\\ViewGameDto.cs",
+              "RelativeToolTip": "Dtos\\Game\\ViewGameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:56:37.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "Services\\GameService.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Services\\GameService.cs",
+              "RelativeToolTip": "Services\\GameService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:52:11.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:33:38.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GameController.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Controllers\\GameController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:08:20.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:30:09.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T14:52:33.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Category\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Category\\CategoryDto.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Category\\CategoryDto.cs",
+              "RelativeToolTip": "Dtos\\Category\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:34:57.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateCategoryDto.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Category\\UpdateCategoryDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Category\\UpdateCategoryDto.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Category\\UpdateCategoryDto.cs",
+              "RelativeToolTip": "Dtos\\Category\\UpdateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T16:54:08.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddCategoryDto.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Category\\AddCategoryDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Category\\AddCategoryDto.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Category\\AddCategoryDto.cs",
+              "RelativeToolTip": "Dtos\\Category\\AddCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T19:36:37.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:31:32.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateGameDto.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Game\\CreateGameDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Game\\CreateGameDto.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Game\\CreateGameDto.cs",
+              "RelativeToolTip": "Dtos\\Game\\CreateGameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:12:56.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FilterDto.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Game\\FilterDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Game\\FilterDto.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Game\\FilterDto.cs",
+              "RelativeToolTip": "Dtos\\Game\\FilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:14:08.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Repositories\\GameRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GameRepository.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Repositories\\GameRepository.cs",
+              "RelativeToolTip": "Repositories\\GameRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAjwD4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:33:21.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateGameDto.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Game\\UpdateGameDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Game\\UpdateGameDto.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Game\\UpdateGameDto.cs",
+              "RelativeToolTip": "Dtos\\Game\\UpdateGameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:03:50.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwD4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:50:28.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameDto.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Game\\GameDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Game\\GameDto.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Game\\GameDto.cs",
+              "RelativeToolTip": "Dtos\\Game\\GameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:16:09.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Models\\Game.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Models\\Game.cs",
+              "RelativeToolTip": "Models\\Game.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:27:56.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T14:52:36.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:46:41.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:06:24.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GameKeyController.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Controllers\\GameKeyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GameKeyController.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Controllers\\GameKeyController.cs",
+              "RelativeToolTip": "Controllers\\GameKeyController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T22:56:01.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:42:35.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:56:33.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:54:38.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProcessPaymentDto.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Payment\\ProcessPaymentDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Payment\\ProcessPaymentDto.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Payment\\ProcessPaymentDto.cs",
+              "RelativeToolTip": "Dtos\\Payment\\ProcessPaymentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:48:48.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GameKeyService.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Services\\GameKeyService.cs",
+              "RelativeDocumentMoniker": "Services\\GameKeyService.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Services\\GameKeyService.cs",
+              "RelativeToolTip": "Services\\GameKeyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T21:54:52.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IServices\\IUserService.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IServices\\IUserService.cs",
+              "RelativeToolTip": "Interfaces\\IServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:24:48.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IServices\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IServices\\IPaymentService.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IServices\\IPaymentService.cs",
+              "RelativeToolTip": "Interfaces\\IServices\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:35:17.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IServices\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IServices\\IOrderService.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IServices\\IOrderService.cs",
+              "RelativeToolTip": "Interfaces\\IServices\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:38:28.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IServices\\IGameService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IServices\\IGameService.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IServices\\IGameService.cs",
+              "RelativeToolTip": "Interfaces\\IServices\\IGameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:57:56.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IGameKeyService.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IServices\\IGameKeyService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IServices\\IGameKeyService.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IServices\\IGameKeyService.cs",
+              "RelativeToolTip": "Interfaces\\IServices\\IGameKeyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T21:53:06.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:38:08.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Services\\PaymentService.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Services\\PaymentService.cs",
+              "RelativeToolTip": "Services\\PaymentService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:34:21.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IServices\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IServices\\ICategoryService.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IServices\\ICategoryService.cs",
+              "RelativeToolTip": "Interfaces\\IServices\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:31:49.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "Interfaces\\IRepository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:09:57.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRepository\\IUserRepository.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IRepository\\IUserRepository.cs",
+              "RelativeToolTip": "Interfaces\\IRepository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T10:52:59.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IRepository\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRepository\\IPaymentRepository.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IRepository\\IPaymentRepository.cs",
+              "RelativeToolTip": "Interfaces\\IRepository\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:22:58.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IRepository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRepository\\IOrderRepository.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IRepository\\IOrderRepository.cs",
+              "RelativeToolTip": "Interfaces\\IRepository\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:36:23.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IGameRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IRepository\\IGameRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRepository\\IGameRepository.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IRepository\\IGameRepository.cs",
+              "RelativeToolTip": "Interfaces\\IRepository\\IGameRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:33:58.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IGameKeyRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IRepository\\IGameKeyRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRepository\\IGameKeyRepository.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Interfaces\\IRepository\\IGameKeyRepository.cs",
+              "RelativeToolTip": "Interfaces\\IRepository\\IGameKeyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T21:44:03.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T10:31:56.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Repositories\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PaymentRepository.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Repositories\\PaymentRepository.cs",
+              "RelativeToolTip": "Repositories\\PaymentRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:24:28.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:54:16.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GameKey.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Models\\GameKey.cs",
+              "RelativeDocumentMoniker": "Models\\GameKey.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Models\\GameKey.cs",
+              "RelativeToolTip": "Models\\GameKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:51:33.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\User\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\User\\RegisterUserDto.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\User\\RegisterUserDto.cs",
+              "RelativeToolTip": "Dtos\\User\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:45:16.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\User\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\User\\UpdateUserDto.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\User\\UpdateUserDto.cs",
+              "RelativeToolTip": "Dtos\\User\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T15:03:36.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\User\\UserDto.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\User\\UserDto.cs",
+              "RelativeToolTip": "Dtos\\User\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:22:19.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\User\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\User\\LoginUserDto.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\User\\LoginUserDto.cs",
+              "RelativeToolTip": "Dtos\\User\\LoginUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T10:51:54.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Order\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Order\\OrderDto.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Order\\OrderDto.cs",
+              "RelativeToolTip": "Dtos\\Order\\OrderDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:39:07.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:49:24.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Order\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Order\\CreateOrderDto.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\Order\\CreateOrderDto.cs",
+              "RelativeToolTip": "Dtos\\Order\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:20:11.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AddOrderItemDto.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\OrderItemsDto\\AddOrderItemDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\OrderItemsDto\\AddOrderItemDto.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\OrderItemsDto\\AddOrderItemDto.cs",
+              "RelativeToolTip": "Dtos\\OrderItemsDto\\AddOrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:51:39.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:52:57.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T16:46:09.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\OrderItemsDto\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\OrderItemsDto\\OrderItemDto.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Dtos\\OrderItemsDto\\OrderItemDto.cs",
+              "RelativeToolTip": "Dtos\\OrderItemsDto\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:59:21.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:21:36.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20250130134551_initial.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Migrations\\20250130134551_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250130134551_initial.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Migrations\\20250130134551_initial.cs",
+              "RelativeToolTip": "Migrations\\20250130134551_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:45:51.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20250130134551_initial.Designer.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Migrations\\20250130134551_initial.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250130134551_initial.Designer.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Migrations\\20250130134551_initial.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250130134551_initial.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T14:42:06.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UserMappers.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Mappers\\UserMappers.cs",
+              "RelativeDocumentMoniker": "Mappers\\UserMappers.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Mappers\\UserMappers.cs",
+              "RelativeToolTip": "Mappers\\UserMappers.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:23:45.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "LoggingMiddleware.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\LoggingMiddleware.cs",
+              "RelativeToolTip": "LoggingMiddleware.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:51:09.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:54:58.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Coding\\QandA\\Backend\\GameStore\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Coding\\QandA\\Backend\\GameStore\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T13:13:00.861Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

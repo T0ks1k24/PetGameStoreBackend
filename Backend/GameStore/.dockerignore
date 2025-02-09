@@ -1,30 +1,67 @@
-**/.classpath
-**/.dockerignore
-**/.env
-**/.git
-**/.gitignore
-**/.project
-**/.settings
-**/.toolstarget
-**/.vs
-**/.vscode
-**/*.*proj.user
-**/*.dbmdl
-**/*.jfm
-**/azds.yaml
-**/bin
-**/charts
-**/docker-compose*
-**/Dockerfile*
-**/node_modules
-**/npm-debug.log
-**/obj
-**/secrets.dev.yaml
-**/values.dev.yaml
-LICENSE
-README.md
-!**/.gitignore
+# 📁 Системні файли та кеш
+.DS_Store
+Thumbs.db
+*.bak
+*.cache
+*.tmp
+*.log
+
+# 🚀 Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+
+# 🔧 Конфігураційні файли IDE
+.vscode/
+.idea/
+*.sln.iml
+.project
+.settings
+.classpath
+.toolstarget
+
+# 🔨 Файли компіляції
+bin/
+obj/
+*.dbmdl
+*.jfm
+
+# 📦 Пакети та залежності
+node_modules/
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+# 🔑 Конфіденційні файли
+.env
+appsettings.json
+appsettings.Development.json
+secrets.json
+secrets.dev.yaml
+values.dev.yaml
+
+# 🐳 Docker
+.dockerignore
+docker-compose*
+docker-compose.override.yml
+Dockerfile*
+
+# ⚡ Git файли (але .gitignore залишається)
+.git/
+!.gitignore
 !.git/HEAD
 !.git/config
 !.git/packed-refs
 !.git/refs/heads/**
+
+# 📜 Kubernetes / Helm (якщо використовуєш)
+charts/
+azds.yaml
+
+# 📄 Ліцензія та документація (якщо не потрібно ігнорувати, видали цей блок)
+LICENSE
+README.md
